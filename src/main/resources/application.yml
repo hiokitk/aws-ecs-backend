@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /backend
+service:
+  dns: https://internal-ecs-private-alb-224353868.ap-northeast-1.elb.amazonaws.com
